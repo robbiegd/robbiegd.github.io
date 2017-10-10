@@ -36,7 +36,7 @@ var scenes = {
         pitch: 0,
         yaw: 170,
         radius: 0.05,
-        distance: 1
+        distance: 1,
       }
     }
   },
@@ -111,14 +111,38 @@ var scenes = {
         distance: 1
       }
     }
-  }
+  },
+  landing: {
+    image: '123-p.png',
+    preview: '123-p.png',
+    hotspots: {
+      donahue: {
+        pitch: 0,
+        yaw: 20,
+        radius: 0.05,
+        distance: 1
+      }
+    }
+  },
+  donahue: {
+    image: '360_0324.jpg',
+    preview: '360_0324.jpg',
+    hotspots: {
+      landing: {
+        pitch: 0,
+        yaw: 80,
+        radius: 0.05,
+        distance: 1
+      }
+    }
+  },
 };
 
 function onLoad() {
   vrView = new VRView.Player('#vrview', {
     image: 'blank.png',
     preview: 'blank.png',
-    is_stereo: true,
+    is_stereo: false,
     is_autopan_off: true
   });
 
@@ -131,7 +155,7 @@ function onLoad() {
 
 function onVRViewReady(e) {
   console.log('onVRViewReady');
-  loadScene('walrus');
+  loadScene('landing');
 }
 
 function onModeChange(e) {
@@ -158,7 +182,7 @@ function loadScene(id) {
   vrView.setContent({
     image: scenes[id].image,
     preview: scenes[id].preview,
-    is_stereo: true,
+    is_stereo: false,
     is_autopan_off: true
   });
 
