@@ -116,15 +116,21 @@ var scenes = {
     image: '123-p.png',
     preview: '123-p.png',
     hotspots: {
-      donahue: {
+      rae: {
         pitch: 0,
         yaw: 20,
         radius: 0.05,
         distance: 1
-      }
+      },
+        china1: {
+            pitch: 4,
+            yaw: -50,
+            radius: 0.05,
+            distance: 1
+        }
     }
   },
-  donahue: {
+  rae: {
     image: 'Rae_1.jpg',
     preview: 'Rae_1.jpg',
     hotspots: {
@@ -136,6 +142,18 @@ var scenes = {
       }
     }
   },
+    china1: {
+        image: 'china1.jpg',
+        preview: 'china1.jpg',
+        hotspots: {
+            landing: {
+                pitch: 0,
+                yaw: 80,
+                radius: 0.05,
+                distance: 1
+            }
+        }
+    },
 };
 
 function onLoad() {
