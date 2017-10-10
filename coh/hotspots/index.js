@@ -125,8 +125,8 @@ var scenes = {
     }
   },
   donahue: {
-    image: '360_0324.jpg',
-    preview: '360_0324.jpg',
+    image: 'Rae_1.jpg',
+    preview: 'Rae_1.jpg',
     hotspots: {
       landing: {
         pitch: 0,
