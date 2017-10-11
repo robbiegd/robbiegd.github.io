@@ -16,105 +16,9 @@ var vrView;
 
 // All the scenes for the experience
 var scenes = {
-  dolphins: {
-    image: 'dolphins.jpg',
-    preview: 'dolphins-preview.jpg',
-    hotspots: {
-      whaleRight: {
-        pitch: 0,
-        yaw: 110,
-        radius: 0.05,
-        distance: 1
-      },
-      whaleLeft: {
-        pitch: 0,
-        yaw: 150,
-        radius: 0.05,
-        distance: 1
-      },
-      walrus: {
-        pitch: 0,
-        yaw: 170,
-        radius: 0.05,
-        distance: 1,
-      }
-    }
-  },
-  whaleLeft: {
-    image: 'whale-left.jpg',
-    preview: 'whale-left-preview.jpg',
-    hotspots: {
-      whaleRight: {
-        pitch: 0,
-        yaw: 125,
-        radius: 0.05,
-        distance: 1
-      },
-      dolphins: {
-        pitch: 0,
-        yaw: 110,
-        radius: 0.05,
-        distance: 1
-      },
-      walrus: {
-        pitch: 0,
-        yaw: 30,
-        radius: 0.05,
-        distance: 1
-      }
-    }
-  },
-  whaleRight: {
-    image: 'whale-right.jpg',
-    preview: 'whale-right-preview.jpg',
-    hotspots: {
-      dolphins: {
-        pitch: 0,
-        yaw: 305,
-        radius: 0.05,
-        distance: 1
-      },
-      whaleLeft: {
-        pitch: 0,
-        yaw: 180,
-        radius: 0.05,
-        distance: 1
-      },
-      walrus: {
-        pitch: 0,
-        yaw: 210,
-        radius: 0.05,
-        distance: 1
-      }
-    }
-  },
-  walrus: {
-    image: 'walrus.jpg',
-    preview: 'walrus-preview.jpg',
-    hotspots: {
-      whaleLeft: {
-        pitch: 0,
-        yaw: 20,
-        radius: 0.05,
-        distance: 1
-      },
-      whaleRight: {
-        pitch: 0,
-        yaw: 340,
-        radius: 0.05,
-        distance: 1
-      },
-      dolphins: {
-        pitch: 0,
-        yaw: 320,
-        radius: 0.05,
-        distance: 1
-      }
-    }
-  },
-  landing: {
-    image: '123-p.png',
-    preview: '123-p.png',
+landing: {
+    image: '360test-p.png',
+    preview: '360test-p.png',
     hotspots: {
       rae: {
         pitch: 0,
@@ -147,7 +51,7 @@ var scenes = {
         preview: 'china1.jpg',
         hotspots: {
             landing: {
-                pitch: 0,
+                pitch: 60,
                 yaw: 80,
                 radius: 0.05,
                 distance: 1
