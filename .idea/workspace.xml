@@ -2,22 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f633af7a-4405-4139-9f92-8c8e295ee386" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/bhutan1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/bhutan2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/china2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/china3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/china4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/dona1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/dona2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/kha1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/kha2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/kha3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/standford.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/123-p.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/123.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/360test-prev.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coh/hotspots/index.html" afterPath="$PROJECT_DIR$/coh/hotspots/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coh/hotspots/index.js" afterPath="$PROJECT_DIR$/coh/hotspots/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coh/hotspots/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
@@ -54,23 +38,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coh/hotspots/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+            <state relative-caret-position="598">
+              <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+              <caret line="85" column="26" lean-forward="false" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+              <caret line="109" column="26" lean-forward="false" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+              <caret line="134" column="26" lean-forward="false" selection-start-line="134" selection-start-column="26" selection-end-line="134" selection-end-column="26" />
+              <caret line="164" column="26" lean-forward="false" selection-start-line="164" selection-start-column="26" selection-end-line="164" selection-end-column="26" />
+              <caret line="194" column="26" lean-forward="false" selection-start-line="194" selection-start-column="26" selection-end-line="194" selection-end-column="26" />
+              <caret line="224" column="26" lean-forward="false" selection-start-line="224" selection-start-column="26" selection-end-line="224" selection-end-column="26" />
+              <caret line="255" column="27" lean-forward="false" selection-start-line="255" selection-start-column="27" selection-end-line="255" selection-end-column="27" />
+              <caret line="269" column="26" lean-forward="false" selection-start-line="269" selection-start-column="26" selection-end-line="269" selection-end-column="26" />
+              <caret line="287" column="26" lean-forward="false" selection-start-line="287" selection-start-column="26" selection-end-line="287" selection-end-column="26" />
+              <caret line="306" column="26" lean-forward="false" selection-start-line="306" selection-start-column="26" selection-end-line="306" selection-end-column="26" />
+              <caret line="324" column="26" lean-forward="false" selection-start-line="324" selection-start-column="26" selection-end-line="324" selection-end-column="26" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#1438#1861#0" expanded="false" />
-                <element signature="e#1873#2403#0" expanded="false" />
-                <element signature="e#2415#2945#0" expanded="false" />
-                <element signature="e#2959#3645#0" expanded="false" />
-                <element signature="e#3659#4344#0" expanded="false" />
-                <element signature="e#4358#5043#0" expanded="false" />
-                <element signature="e#5057#5742#0" expanded="false" />
-                <element signature="e#5760#6013#0" expanded="false" />
-                <element signature="e#6026#6416#0" expanded="false" />
-                <element signature="e#6429#6818#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -78,14 +63,19 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>55</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/coh/hotspots/index.js" />
         <option value="$PROJECT_DIR$/coh/hotspots/index.html" />
+        <option value="$PROJECT_DIR$/coh/hotspots/index.js" />
       </list>
     </option>
   </component>
@@ -201,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507661861819</updated>
       <workItem from="1507661862973" duration="1953000" />
-      <workItem from="1507735159823" duration="6450000" />
+      <workItem from="1507735159823" duration="7057000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8403000" />
+    <option name="totallyTimeSpent" value="9010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="22" width="960" height="1142" extended-state="0" />
@@ -215,6 +205,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295129" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -227,7 +218,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -287,16 +277,6 @@
           <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1438#1861#0" expanded="false" />
-            <element signature="e#1873#2403#0" expanded="false" />
-            <element signature="e#2415#2945#0" expanded="false" />
-            <element signature="e#2959#3645#0" expanded="false" />
-            <element signature="e#3659#4344#0" expanded="false" />
-            <element signature="e#4358#5043#0" expanded="false" />
-            <element signature="e#5057#5742#0" expanded="false" />
-            <element signature="e#5760#6013#0" expanded="false" />
-            <element signature="e#6026#6416#0" expanded="false" />
-            <element signature="e#6429#6818#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -309,32 +289,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coh/hotspots/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#1438#1861#0" expanded="false" />
-            <element signature="e#1873#2403#0" expanded="false" />
-            <element signature="e#2415#2945#0" expanded="false" />
-            <element signature="e#2959#3645#0" expanded="false" />
-            <element signature="e#3659#4344#0" expanded="false" />
-            <element signature="e#4358#5043#0" expanded="false" />
-            <element signature="e#5057#5742#0" expanded="false" />
-            <element signature="e#5760#6013#0" expanded="false" />
-            <element signature="e#6026#6416#0" expanded="false" />
-            <element signature="e#6429#6818#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coh/hotspots/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coh/hotspots/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="61" column="18" lean-forward="false" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+          <caret line="85" column="26" lean-forward="false" selection-start-line="85" selection-start-column="26" selection-end-line="85" selection-end-column="26" />
+          <caret line="109" column="26" lean-forward="false" selection-start-line="109" selection-start-column="26" selection-end-line="109" selection-end-column="26" />
+          <caret line="134" column="26" lean-forward="false" selection-start-line="134" selection-start-column="26" selection-end-line="134" selection-end-column="26" />
+          <caret line="164" column="26" lean-forward="false" selection-start-line="164" selection-start-column="26" selection-end-line="164" selection-end-column="26" />
+          <caret line="194" column="26" lean-forward="false" selection-start-line="194" selection-start-column="26" selection-end-line="194" selection-end-column="26" />
+          <caret line="224" column="26" lean-forward="false" selection-start-line="224" selection-start-column="26" selection-end-line="224" selection-end-column="26" />
+          <caret line="255" column="27" lean-forward="false" selection-start-line="255" selection-start-column="27" selection-end-line="255" selection-end-column="27" />
+          <caret line="269" column="26" lean-forward="false" selection-start-line="269" selection-start-column="26" selection-end-line="269" selection-end-column="26" />
+          <caret line="287" column="26" lean-forward="false" selection-start-line="287" selection-start-column="26" selection-end-line="287" selection-end-column="26" />
+          <caret line="306" column="26" lean-forward="false" selection-start-line="306" selection-start-column="26" selection-end-line="306" selection-end-column="26" />
+          <caret line="324" column="26" lean-forward="false" selection-start-line="324" selection-start-column="26" selection-end-line="324" selection-end-column="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>

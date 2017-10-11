@@ -59,7 +59,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
     preview: 'kha1.jpg',
     hotspots: {
       landing: {
-        pitch: 55,
+        pitch: -55,
         yaw: 0,
         radius: 0.15,
         distance: 0.5
@@ -83,7 +83,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'kha2.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -107,7 +107,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'kha3.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -132,7 +132,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'china1.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -162,7 +162,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'china2.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -192,7 +192,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'china3.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -222,7 +222,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'china4.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -253,7 +253,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'standford.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch:  -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -267,7 +267,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'dona1.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -285,7 +285,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'dona2.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -304,7 +304,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'bhutan1.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
@@ -322,7 +322,7 @@ landing: {  //THIS IS MAIN SCENE, add all future hotspots here
         preview: 'bhutan2.jpg',
         hotspots: {
             landing: {
-                pitch: 55,
+                pitch: -55,
                 yaw: 0,
                 radius: 0.15,
                 distance: 0.5
