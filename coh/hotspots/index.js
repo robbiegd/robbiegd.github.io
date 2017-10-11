@@ -16,48 +16,326 @@ var vrView;
 
 // All the scenes for the experience
 var scenes = {
-landing: {
-    image: '360test-p.png',
-    preview: '360test-p.png',
+landing: {  //THIS IS MAIN SCENE, add all future hotspots here
+    image: '360test-small.png',
+    preview: '360test-small.png',
     hotspots: {
-      rae: {
-        pitch: 0,
-        yaw: 20,
+      kha: {
+        pitch: 12,
+        yaw: -22,
         radius: 0.05,
         distance: 1
       },
-        china1: {
+        china: {
             pitch: 4,
             yaw: -50,
             radius: 0.05,
             distance: 1
-        }
+        },
+        standford: {
+            pitch: 7,
+            yaw: 78,
+            radius: 0.05,
+            distance: 1
+        },
+        dona: {
+            pitch: -2,
+            yaw: 51,
+            radius: 0.05,
+            distance: 1
+        },
+        bhutan: {
+            pitch: -1,
+            yaw: -39,
+            radius: 0.05,
+            distance: 1
+        },
     }
   },
-  rae: {
-    image: 'Rae_1.jpg',
-    preview: 'Rae_1.jpg',
+
+
+    kha: {
+    image: 'kha1.jpg',
+    preview: 'kha1.jpg',
     hotspots: {
       landing: {
-        pitch: 0,
-        yaw: 80,
-        radius: 0.05,
-        distance: 1
-      }
+        pitch: 55,
+        yaw: 0,
+        radius: 0.15,
+        distance: 0.5
+      },
+        kha2: {
+            pitch: 0,
+            yaw: -60,
+            radius: 0.05,
+            distance: 1
+        },
+        kha3: {
+            pitch: 0,
+            yaw: 60,
+            radius: 0.05,
+            distance: 1
+        },
     }
-  },
-    china1: {
+    },
+    kha2: {
+        image: 'kha2.jpg',
+        preview: 'kha2.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            kha: {
+                pitch: 0,
+                yaw: -60,
+                radius: 0.05,
+                distance: 1
+            },
+            kha3: {
+                pitch: 0,
+                yaw: 60,
+                radius: 0.05,
+                distance: 1
+            },
+        }
+    },
+    kha3: {
+        image: 'kha3.jpg',
+        preview: 'kha3.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            kha2: {
+                pitch: 0,
+                yaw: -60,
+                radius: 0.05,
+                distance: 1
+            },
+            kha: {
+                pitch: 0,
+                yaw: 60,
+                radius: 0.05,
+                distance: 1
+            },
+        }
+    },
+
+    china: {
         image: 'china1.jpg',
         preview: 'china1.jpg',
         hotspots: {
             landing: {
-                pitch: 60,
-                yaw: 80,
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            china2: {
+                pitch: 0,
+                yaw: -60,
                 radius: 0.05,
                 distance: 1
-            }
+            },
+            china3: {
+                pitch: 0,
+                yaw: 60,
+                radius: 0.05,
+                distance: 1
+            },
+            china4: {
+                pitch: 0,
+                yaw: 180,
+                radius: 0.05,
+                distance: 1
+            },
         }
     },
+    china2: {
+        image: 'china2.jpg',
+        preview: 'china2.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            china: {
+                pitch: 0,
+                yaw: -60,
+                radius: 0.05,
+                distance: 1
+            },
+            china3: {
+                pitch: 0,
+                yaw: 60,
+                radius: 0.05,
+                distance: 1
+            },
+            china4: {
+                pitch: 0,
+                yaw: 180,
+                radius: 0.05,
+                distance: 1
+            },
+        }
+    },
+    china3: {
+        image: 'china3.jpg',
+        preview: 'china3.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            china: {
+                pitch: 0,
+                yaw: -60,
+                radius: 0.05,
+                distance: 1
+            },
+            china2: {
+                pitch: 0,
+                yaw: 60,
+                radius: 0.05,
+                distance: 1
+            },
+            china4: {
+                pitch: 0,
+                yaw: 180,
+                radius: 0.05,
+                distance: 1
+            },
+        }
+    },
+    china4: {
+        image: 'china4.jpg',
+        preview: 'china4.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            china: {
+                pitch: 0,
+                yaw: -60,
+                radius: 0.05,
+                distance: 1
+            },
+            china3: {
+                pitch: 0,
+                yaw: 60,
+                radius: 0.05,
+                distance: 1
+            },
+            china2: {
+                pitch: 0,
+                yaw: 180,
+                radius: 0.05,
+                distance: 1
+            },
+        }
+    },
+
+    standford: {
+        image: 'standford.jpg',
+        preview: 'standford.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+
+            },
+        }
+    },
+
+    dona: {
+        image: 'dona1.jpg',
+        preview: 'dona1.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            dona2: {
+                pitch: 0,
+                yaw: -60,
+                radius: 0.05,
+                distance: 1
+            },
+        }
+    },
+    dona2: {
+        image: 'dona2.jpg',
+        preview: 'dona2.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            dona: {
+                pitch: 0,
+                yaw: -60,
+                radius: 0.05,
+                distance: 1
+            },
+        }
+    },
+
+    bhutan: {
+        image: 'bhutan1.jpg',
+        preview: 'bhutan1.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            bhutan2: {
+                pitch: 0,
+                yaw: -60,
+                radius: 0.05,
+                distance: 1
+            },
+        }
+    },
+    bhutan2: {
+        image: 'bhutan2.jpg',
+        preview: 'bhutan2.jpg',
+        hotspots: {
+            landing: {
+                pitch: 55,
+                yaw: 0,
+                radius: 0.15,
+                distance: 0.5
+            },
+            bhutan: {
+                pitch: 0,
+                yaw: -60,
+                radius: 0.05,
+                distance: 1
+            },
+        }
+    },
+
 };
 
 function onLoad() {

@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f633af7a-4405-4139-9f92-8c8e295ee386" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/dolphins-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/dolphins.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/walrus-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/walrus.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/whale-left-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/whale-left.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/whale-right-preview.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/whale-right.jpg" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/bhutan1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/bhutan2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/china2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/china3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/china4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/dona1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/dona2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/kha1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/kha2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/kha3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/hotspots/standford.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/123-p.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/123.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/360test-prev.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coh/hotspots/index.html" afterPath="$PROJECT_DIR$/coh/hotspots/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coh/hotspots/index.js" afterPath="$PROJECT_DIR$/coh/hotspots/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,23 +42,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coh/hotspots/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="240">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coh/hotspots/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+            <state relative-caret-position="750">
+              <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+                <element signature="e#1438#1861#0" expanded="false" />
+                <element signature="e#1873#2403#0" expanded="false" />
+                <element signature="e#2415#2945#0" expanded="false" />
+                <element signature="e#2959#3645#0" expanded="false" />
+                <element signature="e#3659#4344#0" expanded="false" />
+                <element signature="e#4358#5043#0" expanded="false" />
+                <element signature="e#5057#5742#0" expanded="false" />
+                <element signature="e#5760#6013#0" expanded="false" />
+                <element signature="e#6026#6416#0" expanded="false" />
+                <element signature="e#6429#6818#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -66,6 +85,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/coh/hotspots/index.js" />
+        <option value="$PROJECT_DIR$/coh/hotspots/index.html" />
       </list>
     </option>
   </component>
@@ -181,12 +201,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507661861819</updated>
       <workItem from="1507661862973" duration="1953000" />
-      <workItem from="1507735159823" duration="1944000" />
+      <workItem from="1507735159823" duration="6450000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3897000" />
+    <option name="totallyTimeSpent" value="8403000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="22" width="960" height="1142" extended-state="0" />
@@ -238,7 +258,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -255,7 +275,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="15" lean-forward="true" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -265,6 +287,16 @@
           <caret line="23" column="12" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1438#1861#0" expanded="false" />
+            <element signature="e#1873#2403#0" expanded="false" />
+            <element signature="e#2415#2945#0" expanded="false" />
+            <element signature="e#2959#3645#0" expanded="false" />
+            <element signature="e#3659#4344#0" expanded="false" />
+            <element signature="e#4358#5043#0" expanded="false" />
+            <element signature="e#5057#5742#0" expanded="false" />
+            <element signature="e#5760#6013#0" expanded="false" />
+            <element signature="e#6026#6416#0" expanded="false" />
+            <element signature="e#6429#6818#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -277,20 +309,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coh/hotspots/index.html">
+    <entry file="file://$PROJECT_DIR$/coh/hotspots/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="750">
+          <caret line="50" column="23" lean-forward="true" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#1438#1861#0" expanded="false" />
+            <element signature="e#1873#2403#0" expanded="false" />
+            <element signature="e#2415#2945#0" expanded="false" />
+            <element signature="e#2959#3645#0" expanded="false" />
+            <element signature="e#3659#4344#0" expanded="false" />
+            <element signature="e#4358#5043#0" expanded="false" />
+            <element signature="e#5057#5742#0" expanded="false" />
+            <element signature="e#5760#6013#0" expanded="false" />
+            <element signature="e#6026#6416#0" expanded="false" />
+            <element signature="e#6429#6818#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coh/hotspots/index.js">
+    <entry file="file://$PROJECT_DIR$/coh/hotspots/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
