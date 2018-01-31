@@ -2,28 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f633af7a-4405-4139-9f92-8c8e295ee386" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/coh/vsa/konami.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/360_0324.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/360test-org.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/360test-p.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/360test-small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/Rae_1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/bhutan1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/bhutan2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/blank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/china1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/china2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/china3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/china4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/dona1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/dona2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/kha1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/kha2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/kha3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/hotspots/standford.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/coh/index.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -37,12 +15,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/coh/vsa/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+            <state relative-caret-position="566">
+              <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -105,6 +83,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -128,7 +107,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -187,23 +165,23 @@
       <updated>1507661861819</updated>
       <workItem from="1507661862973" duration="1953000" />
       <workItem from="1507735159823" duration="7794000" />
-      <workItem from="1507924903127" duration="3091000" />
+      <workItem from="1507924903127" duration="3845000" />
+      <workItem from="1509126633182" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12838000" />
+    <option name="totallyTimeSpent" value="13607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="22" width="960" height="1142" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -249,6 +227,17 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/coh/vsa/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/coh/index.html" />
     <entry file="file://$PROJECT_DIR$/coh/hotspots/index.html" />
     <entry file="file://$PROJECT_DIR$/coh/hotspots/index.js" />
@@ -257,8 +246,8 @@
     <entry file="file://$PROJECT_DIR$/coh/hotspots/index.html" />
     <entry file="file://$PROJECT_DIR$/coh/vsa/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="566">
+          <caret line="49" column="9" lean-forward="false" selection-start-line="49" selection-start-column="9" selection-end-line="49" selection-end-column="9" />
           <folding>
             <element signature="n#style#0;n#img#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
